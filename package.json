@@ -1,5 +1,5 @@
 {
-  "name": "react-native-scrollable-tab-view",
+  "name": "react-native-swipeable-tabs",
   "version": "0.8.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+    "url": "git+https://github.com/oureta/react-native-swipeable-tabs.git"
   },
   "keywords": [
     "react-native-component",
@@ -22,12 +22,12 @@
   "author": "Brent Vatne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brentvatne/react-native-scrollable-tab-view/issues"
+    "url": "https://github.com/oureta/react-native-swipeable-tabs/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.20.0"
   },
-  "homepage": "https://github.com/brentvatne/react-native-scrollable-tab-view#readme",
+  "homepage": "https://github.com/oureta/react-native-swipeable-tabs/blob/master/README.md",
   "dependencies": {
     "react-timer-mixin": "^0.13.3",
     "prop-types": "^15.6.0",
